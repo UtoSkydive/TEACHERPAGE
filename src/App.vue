@@ -12,6 +12,10 @@
 
     </div>
   </div>
+  <div id="app">
+    
+  </div>
+
   <router-view/>
 </template>
 
